@@ -19,13 +19,7 @@
 
 ## 🤯 Fun Fact :
 
-visualisation of how big is 52! : [](https://www.youtube.com/watch?v=0DSclqnnC2s)
-
-## 🌐 Socials :
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrey-bhut-415b3a302/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shreybhut_1011/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreypatel2005@gmail.com)
+visualisation of how big is 52! : [Youtube](https://www.youtube.com/watch?v=0DSclqnnC2s)
 
 
 
