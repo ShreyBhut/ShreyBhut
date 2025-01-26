@@ -19,7 +19,7 @@
 
 ## 🤯 Fun Fact :
 
-visualisation of how big is 52! : [Youtube](https://www.youtube.com/watch?v=0DSclqnnC2s)
+[Visualisation of how massive is 52!](https://www.youtube.com/watch?v=0DSclqnnC2s)
 
 
 
