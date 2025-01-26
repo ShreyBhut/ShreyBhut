@@ -4,7 +4,7 @@
 
 - 🎓 *Pursuing*: B.Tech. in Electrical Engineering⚡at *IIT Roorkee*
 - 📚 *Passion*: Web Development
-- 🌌 *Explorations*: Currently Learning DSA**(Data Structures and Algorithms)** and diving into Competitive Programming .
+- 🌌 *Explorations*: Currently Learning DSA(**Data Structures and Algorithms**) and diving into Competitive Programming .
 
 ## 💻 Tech Stack : 
 
